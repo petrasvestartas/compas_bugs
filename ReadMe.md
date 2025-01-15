@@ -1,3 +1,3 @@
   # Compas Bugs
 
-  Directory for story bugs.
+  Directory for keeping bugs.
